@@ -1,0 +1,50 @@
+HandaRadio Privacy Policy
+
+This Privacy Policy describes how HandaRadio (the "App") collects, uses, and shares your personal information when you use the App.
+
+Information We Collect
+
+We collect the following information when you use the App:
+
+    Device Information: We collect information about your device, such as your device model, operating system version, unique device identifiers, and IP address. This information is used to identify your device and improve the App's functionality.
+    Usage Data: We collect data about your use of the App, such as the stations you listen to, the amount of time you spend listening, and the features you use. This information is used to improve the App and personalize your experience.
+
+How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+    To provide and operate the App
+    To improve and personalize the App
+    To understand how users interact with the App
+    To send you promotional communications (with your consent)
+    To comply with legal and regulatory requirements
+
+Sharing Your Information
+
+We may share your information with third-party service providers who help us operate the App, such as analytics providers and cloud storage providers. These third-party service providers are obligated to protect your information and use it only for the purposes we have specified.
+
+We may also share your information if we are required to do so by law or in the good faith belief that such action is necessary to protect the rights of the App, its users, or the general public.
+
+Your Choices
+
+You can choose to opt out of receiving promotional communications from us by following the unsubscribe instructions in those communications.
+
+Security
+
+We take reasonable steps to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no internet transmission or electronic storage is completely secure, so we cannot guarantee the security of your information.
+
+Children's Privacy
+
+The App is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and you believe that your child has provided us with personal information, please contact us. We will take steps to remove the information from our servers.
+
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the App.
+
+Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at [your email address].
+
+Effective Date
+
+This Privacy Policy is effective as of June 10, 2024.
